@@ -21,7 +21,7 @@
 3) Download Apache cTAKES. Obtain the UMLS license.
    Go to the apache ctakes installation folder and run the default clinical pipeline command:  
    bin/runClinicalPipeline -i <input-directory-name> --xmiOut <output-directory-name> --key <umls-api-key>   
-   Here, the input directory will be the directory containing the .txt files (obtained during Step 2) and the output directory will be desired directory to store the xmi        files.  
+   Here, the input directory will be the directory containing the .txt files (obtained during Step 2) and the output directory will be desired directory to store the xmi        files. The key is the API key associated with your UMLS account.
    This step will take approx. 15-20 min to finish.
 
    Note: For reference go to the repo location: WSDMedTextClassifier_STRIVERS > IntermediateOutputs > AllXmiFiles
