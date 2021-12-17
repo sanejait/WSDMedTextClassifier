@@ -36,7 +36,8 @@
 
    Note: You need the datasets: mtsamples.csv and customMedicalDataset.csv to execute the python script.
 
-   Notebook link: https://github.com/sanejait/WSDMedTextClassifier_STRIVERS/blob/main/Python/Final_Strivers_WSD.ipynb
+   [GitHub Notebook](https://github.com/sanejait/WSDMedTextClassifier_STRIVERS/blob/main/Python/Final_Strivers_WSD.ipynb)  
+   [Colab Notebook - STRIVERS](https://colab.research.google.com/drive/1bDs3ycGc-79hh55RCnQ5z6EA1Ya-pkjX?usp=sharing)
 
 # Instructions for quick execution of program (Python script only - without manual dataset generation)
 1) Download the datasets: 'customMedicalDataset.csv' and 'mtsamples.csv' from the repo location: WSDMedTextClassifier_STRIVERS > Datasets
@@ -44,4 +45,5 @@
 2) Now, download the colab notebook 'Final_Strivers_WSD.ipynb' available at the repo location: WSDMedTextClassifier_STRIVERS > Python > Final_Strivers_WSD.ipynb  
    Run it using Google Colab or any other tool such as Jupyter Lab.
 
-   Notebook link: https://github.com/sanejait/WSDMedTextClassifier_STRIVERS/blob/main/Python/Final_Strivers_WSD.ipynb
+   [GitHub Notebook](https://github.com/sanejait/WSDMedTextClassifier_STRIVERS/blob/main/Python/Final_Strivers_WSD.ipynb)  
+   [Colab Notebook - STRIVERS](https://colab.research.google.com/drive/1bDs3ycGc-79hh55RCnQ5z6EA1Ya-pkjX?usp=sharing)
